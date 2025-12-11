@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## Resources
-# Stage 6 - Software Engineering
+# Resources
+## Stage 6 - Software Engineering
 * Python Fundamentals, a fork of Harvard's CS50 Python course for Codepsaces.
