@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <!--
-
+## Hi there 👋
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
@@ -13,4 +11,4 @@
 
 # Resources
 ## Stage 6 - Software Engineering
-* Python Fundamentals, a fork of Harvard's CS50 Python course for Codepsaces.
+* [Python Fundamentals](https://github.com/WestfieldSHS/PythonFundamentals-CS50P), a fork of Harvard's CS50 Python course for Codepsaces.
